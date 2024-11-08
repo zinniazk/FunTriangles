@@ -1,0 +1,70 @@
+body{
+background-color: rgb(209, 206, 244);
+color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color:rgb(230, 221, 221);
+    margin: 1%;
+  }
+a:visited {
+    color: rgb(230, 221, 221);
+  }
+a:hover {
+    color: black;
+  }
+.topnav{
+    background-color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 2%;
+    text-align: left;
+    font-weight: 400;
+    font-style: oblique;
+    color: white;
+}
+
+.containerdegree{
+    align-items: center;
+    color: purple;
+    font-family: "Nunito", sans-serif;
+    font-size: larger;
+    padding: 5%;
+    text-align: center;
+    font-style: normal;
+    height: 60vh;
+    width: 150vh;
+    border: 0.5cm;
+}
+
+.btndegree{
+padding: 0.5%;
+color: rgb(89, 38, 38);
+border-color: purple;
+font-size: larger;
+font-family: "Nunito", sans-serif;
+font-weight: 400;
+background-color: pink;
+}
+.box1{
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    font-size: larger;
+    padding: 0.5%;
+    border-color: black;
+    border-radius: 1%;
+    color:blue;
+    margin: 7%;
+    border-style: solid;
+}
+h5{
+    color:black;
+}
+
+.nunito-<uniquifier> {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
