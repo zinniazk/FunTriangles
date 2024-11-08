@@ -58,6 +58,14 @@ background-color: pink;
     margin: 7%;
     border-style: solid;
 }
+.box{
+    align-items: center;
+    font-family: "Nunito", sans-serif;
+    font-size: larger;
+    padding: 0.5%;
+    color:blue;
+    margin: 7%;
+}
 h5{
     color:black;
 }
